@@ -1,11 +1,11 @@
 [gd_scene load_steps=12 format=3 uid="uid://ispckjnj0343"]
 
-[ext_resource type="Script" path="res://detector.gd" id="1_ahxdv"]
+[ext_resource type="Script" uid="uid://dee030uxgsj4" path="res://detector.gd" id="1_ahxdv"]
 [ext_resource type="Texture2D" uid="uid://baxsklb7j25po" path="res://sprites/detector.png" id="1_wpqia"]
 [ext_resource type="Texture2D" uid="uid://dqp22uutu4us6" path="res://sprites/knob.png" id="2_f0fga"]
 [ext_resource type="Texture2D" uid="uid://rd6w8komslv0" path="res://sprites/light_red.png" id="3_hhqiw"]
 [ext_resource type="Texture2D" uid="uid://rjm3pvdxcckh" path="res://sprites/light_green.png" id="4_a10lm"]
-[ext_resource type="Script" path="res://particleDetectorArea2D.gd" id="6_qcjtc"]
+[ext_resource type="Script" uid="uid://bq4adqd3wkncv" path="res://particleDetectorArea2D.gd" id="6_qcjtc"]
 [ext_resource type="AudioStream" uid="uid://hetdxy0gk1yn" path="res://sound/switch2.wav" id="7_00ikh"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0wc4p"]
